@@ -1,6 +1,4 @@
 # MICC-CNN
-_____
-
 Source code for Detecting Composite Image Manipulation
 
 ## Reference
